@@ -1,0 +1,9 @@
+#area {
+    width: 200px;
+    height: 100px;
+    outline: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+}
